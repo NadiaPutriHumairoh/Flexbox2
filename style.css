@@ -1,0 +1,47 @@
+.container2{
+  background-color: beige;
+}
+
+.box1 {
+    background-color:blueviolet;
+    width: 1000px;
+    height: 50px;
+    margin: auto;
+    margin-top: 20px;
+ }
+
+ .box2 {
+    background:pink;
+    width: 250px;
+    height: 400px;
+    margin: 25px;
+ }
+
+ .box3 {
+    background:palevioletred;
+    width: 700px;
+    height: 400px;
+    margin-top: 25px;
+ }
+
+ .box4 {
+    background: blueviolet;
+    width: 1000px;
+    height: 50px;
+    margin: auto;
+    margin-bottom: 20px;
+ }
+
+ img {
+    width: 200px;
+    height: 150px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.box1 h2,
+.box4 h2,
+.box2 h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: azure;
+}
